@@ -1,2 +1,0 @@
-Dev/hecaitou.epub filter=lfs diff=lfs merge=lfs -text
-others/thetype.epub filter=lfs diff=lfs merge=lfs -text
